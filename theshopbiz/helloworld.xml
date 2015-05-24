@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.0" type="plugin" group="content">
+        <name>theshopbiz</name>
+        <author>Nandini Goel</author>
+            <creationDate>2012-10-21</creationDate>
+        <copyright>zps</copyright>
+        <license>GNU General Public License</license>
+        <authorEmail>kshah215@gmail.com</authorEmail>
+        <authorUrl>www.magnificientzps.blogspot.com</authorUrl>
+        <version>1.0</version>
+        <description>Give Your Users the ability to create their own online store in minutes. Above every post this plugin will give a link to create a new store and login to it.</description>
+        <files>
+                <filename plugin="helloworld">helloworld.php</filename>
+                <filename>index.html</filename>
+        </files>
+</extension>
